@@ -1,2 +1,2 @@
 # hoverboard
-Simple HTML, CSS, JavaScript project
+HTML, CSS, JavaScript project
